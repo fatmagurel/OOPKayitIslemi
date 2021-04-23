@@ -1,0 +1,7 @@
+C:\Users\owner\source\repos\OOPKayitIslemi\OOPKayitIslemi\bin\Debug\OOPKayitIslemi.exe.config
+C:\Users\owner\source\repos\OOPKayitIslemi\OOPKayitIslemi\bin\Debug\OOPKayitIslemi.exe
+C:\Users\owner\source\repos\OOPKayitIslemi\OOPKayitIslemi\bin\Debug\OOPKayitIslemi.pdb
+C:\Users\owner\source\repos\OOPKayitIslemi\OOPKayitIslemi\obj\Debug\OOPKayitIslemi.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\OOPKayitIslemi\OOPKayitIslemi\obj\Debug\OOPKayitIslemi.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\OOPKayitIslemi\OOPKayitIslemi\obj\Debug\OOPKayitIslemi.exe
+C:\Users\owner\source\repos\OOPKayitIslemi\OOPKayitIslemi\obj\Debug\OOPKayitIslemi.pdb
